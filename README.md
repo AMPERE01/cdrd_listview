@@ -6,6 +6,6 @@ Create, Read, Update, Delete on listview
 
 
 ### Exsample
-//![cdrd_listview](/vllo.gif)
+![cdrd_listview](/vllo.gif)
 
 
